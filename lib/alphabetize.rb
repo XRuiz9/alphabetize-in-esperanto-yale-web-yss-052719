@@ -1,3 +1,3 @@
 def alphabetize(arr)
-  arr
+  arr.sort
 end
